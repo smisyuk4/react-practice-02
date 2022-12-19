@@ -1,0 +1,25 @@
+Іконки з бібліотеки
+https://www.npmjs.com/package/react-icons
+npm i react-icons
+
+
+Стилізація через Emotion 
+https://www.youtube.com/watch?v=Itl8A6g4p4Y
+https://emotion.sh/docs/introduction
+https://emotion.sh/docs/styled
+npm i @emotion/styled @emotion/react
+
+Генерація ідентифікаторів 
+https://www.npmjs.com/package/nanoid
+npm install --save nanoid
+
+Компоненти
+https://mui.com/material-ui/getting-started/overview/
+npm install @mui/material @emotion/react @emotion/styled
+
+Форми
+https://formik.org/docs/overview
+npm install formik --save
+
+Валідація форми
+https://www.npmjs.com/package/yup
